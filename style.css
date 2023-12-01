@@ -1,0 +1,14 @@
+
+span{
+    font-size: 15;
+}
+#camera,#result{
+    border: 2px solid rgb(0, 0, 0);
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+}
+.heading{
+    font-size: 25px;
+    border-radius: 20px;
+}
